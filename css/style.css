@@ -1,0 +1,79 @@
+.page{
+    height:200px;
+    width:60px;
+    background-color:black;
+    margin-left:120px;
+    padding: 10px;
+    z-index: -1;
+    border-radius: 8px;
+}
+
+.Buttons{
+    margin-left:40px;
+    margin-top: 20px;
+}
+
+#red{
+    height: 30%;
+    width:60px;
+    margin-bottom: 10px;
+}
+
+#yellow{
+    height: 30%;
+    width:60px;
+    margin-bottom: 10px;
+}
+
+#green{
+    height: 30%;
+    width:60px;
+    margin-bottom: 10px;
+}
+
+#red,#yellow,#green{
+  border-radius: 50px;
+}
+
+.post{
+  height:200px;
+  width:5px;
+  background-color:black;
+  margin-left:147px;
+  padding: 10px;
+  z-index: -1;
+}
+
+.base{
+  height:1px;
+  width:80px;
+  background-color:black;
+  margin-left:110px;
+  padding: 10px;
+  z-index: -1;
+}
+
+
+.redOn{
+     background-color: #ff0000;
+}
+
+.redOff{
+    background-color: #440000;
+}
+
+.yellowOn{
+    background-color: #ffff00;
+}
+
+.yellowOff{
+     background-color: #444400;
+}
+
+.greenOn{
+     background-color: #00ff00;
+}
+
+.greenOff{
+    background-color: #004400;
+}
